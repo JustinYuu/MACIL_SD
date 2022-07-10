@@ -1,7 +1,7 @@
 # MACIL_SD
 **[ACM MM 2022] Modality-aware Contrastive Instance Learning with Self-Distillation for Weakly-Supervised Audio-Visual Violence Detection**
 
-Jiashuo Yu, Jinyu Liu, Ying Cheng, Rui Feng, Yuejie Zhang  
+Jiashuo Yu*, Jinyu Liu*, Ying Cheng, Rui Feng, Yuejie Zhang (* equal contribution) 
 
 ## XD-Violence Dataset & Features  
 
@@ -30,4 +30,4 @@ This project is released under the MIT License.
 
 ## Acknowledgements  
 
-The codes are based on [XDVioDet](https://github.com/Roc-Ng/XDVioDet) and [RTFM](https://github.com/tianyu0207/RTFM). We sincerely thank them for their efforts. If you have further questions, please contact me at jsyu19@fudan.edu.cn.  
+The codes are based on [XDVioDet](https://github.com/Roc-Ng/XDVioDet) and [RTFM](https://github.com/tianyu0207/RTFM). We sincerely thank them for their efforts. If you have further questions, please contact us at jsyu19@fudan.edu.cn and jinyuliu20@fudan.edu.cn.  
