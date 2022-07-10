@@ -14,7 +14,7 @@ The audio and visual features of the XD-Violence dataset can be downloaded at th
     cuda==10.1  
     numpy==1.17.4
   
-Note that the reported results are obtained by trainig on a single Tesla V100 GPU. We observe that different GPU types and torch/cuda versions can lead to slightly different results.  
+Note that the reported results are obtained by training on a single Tesla V100 GPU. We observe that different GPU types and torch/cuda versions can lead to slightly different results.  
 
 ## Training
 
