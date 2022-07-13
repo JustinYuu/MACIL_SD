@@ -18,8 +18,8 @@ Jiashuo Yu*, Jinyu Liu*, Ying Cheng, Rui Feng, Yuejie Zhang (* equal contributio
 
 | Method | Modality |AP (%) | Params |
 | ----------| :------: | :----:| :----: |
-| **Ours (light)**| Audio & Visual | **82.17** | **0.347M**|
-| **Ours (full)**| Audio & Visual | **83.40** | **0.678M**|
+| Ours (light)| Audio & Visual | 82.17 | 0.347M|
+| Ours (full)| Audio & Visual | 83.40 | 0.678M|
 
 ## XD-Violence Dataset & Features  
 
