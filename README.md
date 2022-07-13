@@ -1,7 +1,7 @@
 # MACIL_SD
-**[ACM MM 2022] Modality-aware Contrastive Instance Learning with Self-Distillation for Weakly-Supervised Audio-Visual Violence Detection**
+**[ACM MM 2022] Modality-aware Contrastive Instance Learning with Self-Distillation for Weakly-Supervised Audio-Visual Violence Detection** [arxiv](https://arxiv.org/abs/2207.05500)  
 
-Jiashuo Yu*, Jinyu Liu*, Ying Cheng, Rui Feng, Yuejie Zhang (* equal contribution) 
+Jiashuo Yu*, Jinyu Liu*, Ying Cheng, Rui Feng, Yuejie Zhang (* equal contribution)  
 
 ## XD-Violence Dataset & Features  
 
@@ -23,6 +23,17 @@ Note that the reported results are obtained by training on a single Tesla V100 G
 ## Testing
 
 `python infer.py  --model_dir=macil_sd.pkl`  
+
+## Citation  
+
+If you find our work interesting and useful, please consider citing it.  
+
+    @article{yu2022macil,
+      title={Modality-Aware Contrastive Instance Learning with Self-Distillation for Weakly-Supervised Audio-Visual Violence Detection},
+      author={Jiashuo Yu, Jinyu Liu, Ying Cheng, Rui Feng, Yuejie Zhang},
+      journal={arXiv preprint arXiv:2207.05500},
+      year={2022}
+    }  
 
 ## License
 
