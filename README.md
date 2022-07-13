@@ -22,7 +22,7 @@
 
 ## Comparison with SOTAs
 
-| Method    | Modality |AP (%) | Params |
+| Method <img width=500>   | Modality <img width=500>|AP (%) <img width=500>| Params <img width=500>|
 | ----------| :------: | :----:| :----: |
 | Sultani et al. | Visual | 73.20 | / |
 | RTFM | Visual | 77.81 |12.067M |
