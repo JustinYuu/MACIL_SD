@@ -8,6 +8,24 @@ Jiashuo Yu*, Jinyu Liu*, Ying Cheng, Rui Feng, Yuejie Zhang (* equal contributio
 
 [Paper](https://arxiv.org/abs/2207.05500)  
 
+## Overview
+
+<p align="center">
+    <img src=overview.png width="800" height="300"/>
+</p>
+
+## Comparison with SOTAs
+
+| Method <img width=300> | Modality <img width=300>|AP (%) <img width=300>| Params <img width=300>|
+| ----------| :------: | :----:| :----: |
+| Sultani et al. | Visual | 73.20 | / |
+| RTFM | Visual | 77.81 |12.067M |
+| Li et al. | Visual | 78.28 | /|
+| Wu et al. | Audio & Visuial | 78.64 |1.539M |
+| Pang et al.| Audio & Visual | 81.69 | 1.876M|
+| **Ours (light)**| Audio & Visual | **82.17** | **0.347M**|
+| **Ours (full)**| Audio & Visual | **83.40** | **0.678M**|
+
 ## XD-Violence Dataset & Features  
 
 The audio and visual features of the XD-Violence dataset can be downloaded at this [link](https://roc-ng.github.io/XD-Violence/). Note that in this paper, only the **RGB** and **VGGish** features are required. You can download the **RGB.zip**, **RGBTest.zip**, and **vggish-features.zip** and unzip them into the *data/* folder.  
