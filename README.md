@@ -14,7 +14,7 @@ Jiashuo Yu*, Jinyu Liu*, Ying Cheng, Rui Feng, Yuejie Zhang (* equal contributio
     <img src=overview.png width="800" height="300"/>
 </p>
 
-## Comparison with SOTAs
+## Results  
 
 | Method | Modality |AP (%) | Params |
 | ----------| :------: | :----:| :----: |
