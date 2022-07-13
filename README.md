@@ -16,6 +16,8 @@ Jiashuo Yu*, Jinyu Liu*, Ying Cheng, Rui Feng, Yuejie Zhang (* equal contributio
 
 ## Results  
 
+Our model achieves state-of-the-art results on the XD-Violence dataset while maintaining low parameter amounts.
+
 | Method | Modality |AP (%) | Params |
 | ----------| :------: | :----:| :----: |
 | Ours (light)| Audio & Visual | 82.17 | 0.347M|
