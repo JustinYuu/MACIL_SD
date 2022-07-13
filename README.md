@@ -16,7 +16,7 @@ Jiashuo Yu*, Jinyu Liu*, Ying Cheng, Rui Feng, Yuejie Zhang (* equal contributio
 
 ## Comparison with SOTAs
 
-| Method <img width=300> | Modality <img width=300>|AP (%) <img width=300>| Params <img width=300>|
+| Method | Modality |AP (%) | Params |
 | ----------| :------: | :----:| :----: |
 | **Ours (light)**| Audio & Visual | **82.17** | **0.347M**|
 | **Ours (full)**| Audio & Visual | **83.40** | **0.678M**|
